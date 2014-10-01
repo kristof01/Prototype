@@ -1,2 +1,3 @@
 Prototype
 =========
+A puzzle game.
